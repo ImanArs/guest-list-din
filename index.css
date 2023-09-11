@@ -1,0 +1,9 @@
+.root {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+}
+.guest {
+  border: 1px solid #000;
+  padding: 10px;
+}
